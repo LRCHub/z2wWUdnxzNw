@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "GIVE ME FIVE!",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-12T15:17:37.529786Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me Five !",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_Give_Me_Five_!_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GIVE ME FIVE!",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/02_GIVE_ME_FIVE!_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GIVE ME FIVE!",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/03_GIVE_ME_FIVE!_AKB48.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "GIVE ME FIVE!",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_GIVE_ME_FIVE!_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me Five",
+      "artist": "Aseul",
+      "has_synced": false,
+      "path": "select/05_Give_Me_Five_Aseul.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GIVE ME FIVE!",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/06_GIVE_ME_FIVE!_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (D!scosound Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/07_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(D!scosound_Radio_Edit)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (DJ THT vs. Ced Tecknoboy Remix)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/08_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(DJ_THT_vs._Ced_Tecknoboy_Re_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Dirty Might Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": true,
+      "path": "select/09_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Dirty_Might_Radio_Edit)_DJ_Gollum.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (DJ THT vs. Ced Tecknoboy Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/10_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(DJ_THT_vs._Ced_Tecknoboy_Ra_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Discotheque Style Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/11_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Discotheque_Style_Radio_Edi_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Extended Mix)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/12_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Extended_Mix)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (No Tapestop Extended Mix)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/13_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(No_Tapestop_Extended_Mix)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (P!Crash Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/14_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(P!Crash_Radio_Edit)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (No Tapestop Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/15_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(No_Tapestop_Radio_Edit)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Platinum Project Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/16_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Platinum_Project_Radio_Edit_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Project Marane Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/17_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Project_Marane_Radio_Edit)_DJ_Gollum.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Give Me Five (Easter Rave Hymn 2k14) (feat. DJ Cap) (Radio Edit)",
+      "artist": "DJ Gollum",
+      "has_synced": false,
+      "path": "select/18_Give_Me_Five_(Easter_Rave_Hymn_2k14)_(feat._DJ_Cap)_(Radio_Edit)_DJ_Gollum.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "GIVE ME FIVE!",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_GIVE_ME_FIVE!_AKB48.txt"
+    }
+  ]
+}
